@@ -1,0 +1,4 @@
+labelImg文件夹是图像标注软件
+model文件夹是tensorflow维护的repository,object_detection在./model/research/object_detection
+Screen-Vehicle-Detection-using-Tensorflow-API-master文件夹下包含xml转csv,csv转tfrecord,最终目标检测测试三个重要code
+crawler是爬虫code,可在百度图片上爬取照片 
